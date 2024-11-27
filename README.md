@@ -50,7 +50,6 @@ const apiKey = 'YOUR_API_KEY';
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
-```
 
 ### How to Use:
 1. **Clone the repo**: The first step is cloning the repository to your local machine.
